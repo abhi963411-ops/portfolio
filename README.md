@@ -61,10 +61,6 @@ python -m http.server 8085
 ```
 Then open `http://localhost:8085` in your web browser.
 
----
-
-## 📄 Resume Data
-Extracted from `Page_Resume.docx` (IIT Madras B.Sc. Data Science & Applications, Outlier AI LLM Specialist, WorldQuant Quant Research Consultant).
 
 ---
 © 2026 Abhishek Parmar.
